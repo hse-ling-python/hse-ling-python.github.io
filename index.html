@@ -1,7 +1,15 @@
 <html>
   <head>
-    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
-    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+  ...
+  <script defer src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+  <script type="module">
+    WebComponents.waitFor(() => {
+      let el = document.createElement('script');
+      el.src = 'https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js';
+      document.head.appendChild(el);
+    });
+  </script>
+  ...
   </head>
   <body>
     <zero-md src="https://www.example.com/my-markdown.md"></zero-md>
