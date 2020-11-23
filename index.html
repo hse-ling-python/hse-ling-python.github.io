@@ -16,6 +16,7 @@
         <tr>
             <td class="information-one"><a href="https://t.me/joinchat/Ey8eEBgAshE4xMRoXk8AFQ">инвайт-линк в телеграм-чат</a></td>
             <td class="information-one"><a href="https://docs.google.com/spreadsheets/d/1xGjW7KK4J8BX0sz1GtVhorAvvgC2rc8dZSlCoGUCn2k/edit?usp=sharing">таблица с оценками</a></td>
+            <td class="information-one"><a href="#links">полезные ссылки</a></td>
             <!-- <td class="information-one"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf2mCVQiuZh9OzOfuCZ2pTEDXLf3GI_TbYQtz3b1zuBjZhwjw/viewform?usp=sf_link">гугл-форма для контактов</a></td> -->
         </tr>
       </table>
@@ -45,16 +46,28 @@
             <th>ДЗ<br>194</th>
           </tr>
         </thead>
-        <!-- Table head -->
 
         <!-- Table body -->
-        <tbody id="demo">
+        <tbody id="schedule">
 
         
         </tbody>
         <!-- Table body -->
       </table>
+
+      <h2 class="schedule-header">Полезные ссылки</h2>
       <!-- Table  -->
+      <table class="table table bordered table-striped" id="links">
+        <thead>
+          <th>Тип</th>
+          <th>Тема</th>
+          <th>Ссылка</th>
+          <th>Описание</th>
+        </thead>
+        <tbody id="link_table">
+          
+        </tbody>
+      </table>
 
     </div>
     <script type="text/javascript">
@@ -83,10 +96,7 @@
         var hw193 = data.feed.entry[i]['gsx$hw193']['$t'];
         var hw194 = data.feed.entry[i]['gsx$hw194']['$t'];
 
-
-        // document.getElementById('demo').innerHTML += ('<tr>'+'<td>'+m+'</td>'+'<td>'+n+'</td>'+'<td>'+topic+'</td>'+'<td>'>+hwname+'</td>'+'</tr>');
-        // document.getElementById('demo').innerHTML += ('<tr>'+'<td>'+topic+'</td>'+'</tr>')
-        document.getElementById('demo').innerHTML += (
+        document.getElementById('schedule').innerHTML += (
         	'<tr>'+
         	'<td>'+m+'</td>'+
         	'<td>'+n+'</td>'+
@@ -104,6 +114,31 @@
         	'<td>'+hw194+'</td>'+
         	'</tr>'
         	);
+
+      }
+    });
+
+
+    $.getJSON("https://spreadsheets.google.com/feeds/list/1xhB2Rz2bZn8QzCCsj08xorFlimLU9nEGGeBNCscbASQ/od6/public/values?alt=json", function (data) {
+
+      var sheetData2 = data.feed.entry;
+
+      var i;
+      for (i = 0; i < sheetData2.length; i++) {
+
+        var t = data.feed.entry[i]['gsx$type']['$t'];
+        var topic = data.feed.entry[i]['gsx$topic']['$t'];
+        var src = data.feed.entry[i]['gsx$source']['$t'];
+        var desc = data.feed.entry[i]['gsx$desc']['$t'];
+
+        document.getElementById('link_table').innerHTML += (
+          '<tr>'+
+          '<td>'+t+'</td>'+
+          '<td>'+topic+'</td>'+
+          '<td><a target="_blank" href="'+src+'"> ссылка </a></td>'+
+          '<td>'+desc+'</td>'+
+          '</tr>'
+          );
 
       }
     });
