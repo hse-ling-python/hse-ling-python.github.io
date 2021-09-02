@@ -12,5 +12,10 @@
 | -- | ----------- | -- | --- | --- | --- | --- |
 | 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2020.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
 | 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
-|^^  | [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
+|| [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
+| 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
+| 4  | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
+| 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_1.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
+| 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_20-21.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
+| 7  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
 
