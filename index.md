@@ -10,7 +10,7 @@
 
 | N  | Семинар     | ДЗ | 201 | 202 | 203 | 204 |
 | -- | ----------- | -- | --- | --- | --- | --- |
-| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2020.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
+| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2021.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
 | 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
 || [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
 | 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
