@@ -10,12 +10,23 @@
 
 | N  | Семинар     | ДЗ | 201 | 202 | 203 | 204 |
 | -- | ----------- | -- | --- | --- | --- | --- |
-| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2021.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
-| 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
-|| [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
-| 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | | ??.09 | ??.09 | ??.09 | ??.09 |
-| 4  | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
-| 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_1.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
-| 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_20-21.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
-| 7  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) | | ??.10 | ??.10 | ??.10 | ??.10 |
-
+| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2021.ipynb) | | 10.09 | 10.09 | 10.09 | 10.09 |
+| 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | | 17.09 | 17.09 | 17.09 | 17.09 |
+|| [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | 24.09 | 24.09 | 24.09 | 24.09 |
+| 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | | 01.10 | 01.10 | 01.10 | 01.10 |
+| 4  | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | | 08.10 | 08.10 | 08.10 | 08.10 |
+| 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_1.ipynb) | | 15.10 | 15.10 | 15.10 | 15.10 |
+| 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_20-21.ipynb) | | 25.10 | 25.10 | 25.10 | 25.10 |
+| 7  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) | | 29.10 | 29.10 | 29.10 | 29.10 |
+| 8  | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | | 01.11 | 01.11 | 01.11 | 01.11 |
+| 9  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | | 01.11 | 01.11 | 01.11 | 01.11 |
+| 10  | [Краулеры - 1](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | | 05.11 | 05.11 | 05.11 | 05.11 |
+| 11  | [Краулеры - 2](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | | 01.11 | 08.11 | 08.11 | 08.11 |
+| 12  | Flask - 1 | | 12.11 | 12.11 | 12.11 | 12.11 |
+| 13  | Flask - 2 | | 15.11 | 15.11 | 15.11 | 15.11 |
+| 14  | Flask - 3 | | 19.11 | 19.11 | 19.11 | 19.11 |
+| 15  | Docker | | 22.11 | 22.11 | 22.11 | 22.11 |
+| 16  | Графы | | 26.11 | 26.11 | 26.11 | 26.11 |
+| 17  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | 29.11 | 29.11 | 29.11 | 29.11 |
+| 18  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | 06.12 | 06.12 | 06.12 | 06.12 |
+| 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 13.12 | 13.12 | 13.12 | 13.12 |
