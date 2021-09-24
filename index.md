@@ -14,7 +14,7 @@
 | 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2021.ipynb) | | 10.09 | 10.09 | 10.09 | 10.09 |
 | 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | | 17.09 | 17.09 | 17.09 | 17.09 |
 || [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | 17.09 | 17.09 | 24.09 | 24.09 |
-| 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | ДЗ1 | 24.09 | 24.09 | 01.10 | 01.10 |
+| 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/homework_21_22/blob/main/hw1.md) | 24.09 | 24.09 | 01.10 | 01.10 |
 | 4  | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | | 01.10 | 01.10 | 08.10 | 08.10 |
 | 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_1.ipynb) | ДЗ2 | 08.10 | 08.10 | 15.10 | 15.10 |
 | 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_20-21.ipynb) | ДЗ3 | 15.10 | 15.10 | 25.10 | 25.10 |
