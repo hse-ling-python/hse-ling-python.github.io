@@ -13,7 +13,7 @@
 | -- | ----------- | -- | --- | --- | --- | --- |
 | 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2021.ipynb) | | 10.09 | 10.09 | 10.09 | 10.09 |
 | 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | | 17.09 | 17.09 | 17.09 | 17.09 |
-|| [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | 17.09 | 17.09 | 24.09 | 24.09 |
+|| [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | 17.09 | 17.09 | 17.09 | 24.09 |
 | 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/homework_21_22/blob/main/hw1.md) | 24.09 | 24.09 | 01.10 | 01.10 |
 | 4  | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | | 01.10 | 01.10 | 08.10 | 08.10 |
 | 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_21.ipynb) | [ДЗ2](https://github.com/hse-ling-python/homework_21_22/blob/main/hw2.md) | 08.10 | 08.10 | 15.10 | 15.10 |
