@@ -21,16 +21,16 @@
 | 7  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) | | 29.10 | 29.10 | 05.10 | 29.10 |
 | 8  | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | | 08.11 | 11.11 | 05.10 | 01.11 |
 | 9  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ4](https://github.com/hse-ling-python/homework_21_22/blob/main/hw4.md) | 12.11 | 12.11 | 12.11 | 01.11 |
-| 10  | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | | 19.11 | 18.11 | 12.11 | 05.11 |
-| 11  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | ДЗ5 | 22.11 | 19.11 | 19.11 | 08.11 |
-| 12  | Flask - 1 | | 12.11 | 12.11 | 19.11 | 12.11 |
-| 13  | Flask - 2 | | 15.11 | 15.11 | 26.11 | 15.11 |
-| 14  | Flask - 3 | | 19.11 | 19.11 | 26.11 | 19.11 |
-| 15  | Docker | ДЗ6 | 22.11 | 22.11 | 03.11 | 22.11 |
-| 16  | Графы | | 26.11 | 26.11 | 03.11 | 26.11 |
-| 17  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | 29.11 | 29.11 | 10.12 | 29.11 |
-| 18  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | 06.12 | 06.12 | 10.12 | 06.12 |
-| 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 13.12 | 13.12 | 17.12 | 13.12 |
+| 10  | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | | 16.11 | 18.11 | 12.11 | 05.11 |
+| 11  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | ДЗ5 | 19.11 | 19.11 | 19.11 | 08.11 |
+| 12  | Flask - 1 | | 22.11 | 25.11 | 19.11 | 12.11 |
+| 13  | Flask - 2 | | 26.11 | 26.11 | 26.11 | 15.11 |
+| 14  | Flask - 3 | | 29.11 | 02.12 | 26.11 | 19.11 |
+| 15  | Docker | ДЗ6 | 03.12 | 03.12 | 03.11 | 22.11 |
+| 16  | Графы | | 06.12 | 09.12 | 03.11 | 26.11 |
+| 17  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | 10.12 | 10.12 | 10.12 | 29.11 |
+| 18  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | 13.12 | 16.12 | 10.12 | 06.12 |
+| 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 17.12 | 17.12 | 17.12 | 13.12 |
 | 20  | Разные инструменты | | - | - | - | - |
 | 21  | Введение в машинное обучение | | - | - | - | - |
 | 22  | Линейная регрессия | | - | - | - | - |
