@@ -24,8 +24,8 @@
 | 10  | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | | 16.11 | 18.11 | 12.11 | 05.11 |
 | 11  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | [ДЗ5](https://github.com/hse-ling-python/homework_21_22/blob/main/hw5.md) | 19.11 | 19.11 | 19.11 | 08.11 |
 | 12  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| | 22.11 | 25.11 | 19.11 | 12.11 |
-| 13  | Flask - 2 | | 26.11 | 26.11 | 26.11 | 15.11 |
-| 14  | Flask - 3 | | 29.11 | 02.12 | 26.11 | 19.11 |
+| 13  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | | 26.11 | 26.11 | 26.11 | 15.11 |
+| 14  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | | 29.11 | 02.12 | 26.11 | 19.11 |
 | 15  | Docker | ДЗ6 | 03.12 | 03.12 | 03.11 | 22.11 |
 | 16  | Графы | | 06.12 | 09.12 | 03.11 | 26.11 |
 | 17  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | 10.12 | 10.12 | 10.12 | 29.11 |
