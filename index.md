@@ -26,11 +26,11 @@
 | 12  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| | 22.11 | 25.11 | 19.11 | 12.11 |
 | 13  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | | 26.11 | 26.11 | 26.11 | 15.11 |
 | 14  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | | 29.11 | 02.12 | 26.11 | 19.11 |
-| 15  | Docker | ДЗ6 | 03.12 | 03.12 | 03.11 | 22.11 |
-| 16  | Графы | | 06.12 | 09.12 | 03.11 | 26.11 |
-| 17  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | 10.12 | 10.12 | 10.12 | 29.11 |
-| 18  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | 13.12 | 16.12 | 10.12 | 06.12 |
-| 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 17.12 | 17.12 | 17.12 | 13.12 |
+| 15  | [Docker](https://github.com/hse-ling-python/seminars/tree/master/docker) | ДЗ6 | 03.12 | 03.12 | 03.11 | 22.11 |
+| 16  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 17.12 | 17.12 | 17.12 | 13.12 |
+| 17  | Графы | | 06.12 | 09.12 | 03.11 | 26.11 |
+| 18  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | 10.12 | 10.12 | 10.12 | 29.11 |
+| 19  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | 13.12 | 16.12 | 10.12 | 06.12 |
 | 20  | Разные инструменты | | - | - | - | - |
 | 21  | Введение в машинное обучение | | - | - | - | - |
 | 22  | Линейная регрессия | | - | - | - | - |
