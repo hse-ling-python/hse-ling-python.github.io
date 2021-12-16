@@ -30,7 +30,7 @@
 | 16  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 06.12 | 09.12 | 03.12 | 03.12 |
 | 17  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | 10.12 | 10.12 | 10.12 | 09.12 |
 | 18  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | 13.12 | 16.12 | 10.12 | 10.12 |
-| 19  | Графы | | 17.12 | 17.12 | 17.12 | 16.12 |
+| 19  | [Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | | 17.12 | 17.12 | 17.12 | 16.12 |
 | 20  | Разные инструменты | | 14.01 | 14.01 | - | - |
 | 21  | Введение в машинное обучение | | 21.01 | 21.01 | - | - |
 | 22  | Линейная регрессия | | 28.01 | 28.01 | - | - |
