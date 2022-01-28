@@ -33,7 +33,7 @@
 | 19  | [Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | | 17.12 | 17.12 | 17.12 | 16.12 |
 | 20  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | | 14.01 | 14.01 | 14.01 | 14.01 |
 | 21  | [Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | | 21.01 | 21.01 | - | - |
-| 22  | Линейная регрессия | | 28.01 | 28.01 | - | - |
+| 22  | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | | 28.01 | 28.01 | - | - |
 | 23  | Классификация - 1 | | 04.02 | 04.02 | - | - |
 | 24  | Классификация - 2 | ДЗ7 | 11.02 | 11.02 | - | - |
 | 25-28  | Хакатон | ДЗ8 | 15.02 | 15.02 | 15.02 | 15.02 |
