@@ -32,12 +32,12 @@
 | 18  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | 13.12 | 16.12 | 10.12 | 10.12 |
 | 19  | [Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | | 17.12 | 17.12 | 17.12 | 16.12 |
 | 20  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | | 14.01 | 14.01 | 14.01 | 14.01 |
-| 21  | [Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | | 21.01 | 21.01 | - | - |
-| 22  | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | | 28.01 | 28.01 | - | - |
-| 23  | [Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | 04.02 | 04.02 | - | - |
-| 24  | Кластеризация | ДЗ7 | 11.02 | 11.02 | - | - |
+| 21  | [Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | | 21.01 | 21.01 | 21.01 | - |
+| 22  | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | | 28.01 | 28.01 | 28.01 | - |
+| 23  | [Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | 04.02 | 04.02 | 04.02 | - |
+| 24  | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | ДЗ7 | 11.02 | 11.02 | 11.02 | - |
 | 25-28  | Хакатон | ДЗ8 | 15.02 | 15.02 | 15.02 | 15.02 |
-| 29  | Телеграм-боты - 1 | | 18.02 | 18.02 | - | - |
+| 29  | Телеграм-боты - 1 | | 18.02 | 18.02 | 18.02 | - |
 | 30  | Телеграм-боты - 2 | ДЗ9 | 25.02 | 25.02 | - | - |
 | 31  | ??? | | 04.03 | 04.03 | - | - |
 | 32  | ??? | | 11.03 | 11.03 | - | - |
