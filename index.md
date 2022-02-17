@@ -37,7 +37,7 @@
 | 23  | [Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | 04.02 | 04.02 | 04.02 | - |
 | 24  | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | [ДЗ7](https://github.com/hse-ling-python/homework_21_22/blob/main/hw7.md) | 11.02 | 11.02 | 11.02 | - |
 | 25-28  | Хакатон | =ДЗ8 | 15.02 | 15.02 | 15.02 | 15.02 |
-| 29  | Машинное обучение | | 18.02 | 18.02 | 18.02 | - |
+| 29  | [Машинное обучение. Разное](https://github.com/hse-ling-python/seminars/blob/master/ml/ml_final.md) | | 18.02 | 18.02 | 18.02 | - |
 | 30  | Телеграм-боты - 1 || 25.02 | 25.02 | - | - |
 | 31  | Телеграм-боты - 2 |ДЗ9| 04.03 | 04.03 | - | - |
 | 32  | ??? | | 11.03 | 11.03 | - | - |
