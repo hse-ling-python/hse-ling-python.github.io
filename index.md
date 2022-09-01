@@ -1,22 +1,22 @@
-# Python для лингвистов 2 курс 2021-2022
+# Python для лингвистов 2 курс 2022-2023
 
 <table>
   <tr>
     <td> <a href="https://t.me/joinchat/3ymOTSrrFzphYzA6"> инвайт-линк в телеграм-чат </a> </td>
-    <td> <a href="https://docs.google.com/spreadsheets/d/1wE8CO8QYmfnndG0Lcrq2adn2YKYzkZGyC6VqqpY13Jo/edit?usp=sharing"> таблица с оценками </a> </td>
+    <td> <a href=""> таблица с оценками </a> </td>
   </tr>
 </table>
 
 ## План курса
 
-| N  | Семинар     | ДЗ | 201 | 202 | 203 | 204 |
-| -- | ----------- | -- | --- | --- | --- | --- |
-| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2021.ipynb) | | 10.09 | 10.09 | 10.09 | 10.09 |
-| 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | | 17.09 | 17.09 | 17.09 | 17.09 |
-|| [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | 17.09 | 17.09 | 17.09 | 24.09 |
-| 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/homework_21_22/blob/main/hw1.md) | 24.09 | 24.09 | 01.10 | 01.10 |
-| 4  | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | | 01.10 | 01.10 | 08.10 | 08.10 |
-| 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_21.ipynb) | [ДЗ2](https://github.com/hse-ling-python/homework_21_22/blob/main/hw2.md) | 08.10 | 08.10 | 15.10 | 15.10 |
+| N  | Семинар     | ДЗ | 211 | 212 | 213 |
+| -- | ----------- | -- | --- | --- | --- |
+| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2021.ipynb) | | 06.09 | 10.09 | |
+| 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | |  |  |  |  
+|| [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | |  |  |  |  
+| 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | ДЗ1 |  |  |  | 
+| 4  | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | |  |  |  | 
+| 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_21.ipynb) | |  |  |  | 
 | 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_21_22.ipynb) | [ДЗ3](https://github.com/hse-ling-python/homework_21_22/blob/main/hw3.md) | 15.10 | 15.10 | 15.10 | 25.10 |
 | 7  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) | | 29.10 | 29.10 | 05.10 | 29.10 |
 | 8  | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | | 08.11 | 11.11 | 05.10 | 01.11 |
