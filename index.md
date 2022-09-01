@@ -29,17 +29,17 @@
 | 15  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | | |||
 | 16  | [Docker](https://github.com/hse-ling-python/seminars/tree/master/docker) | ДЗ5 | |||
 | 17  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | | |||
-| 18 | Контрольная |||||
-| 19  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | |||
-| 20  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | |||
-| 21  | [Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | ||||
-| 22  | [Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | | |||
-| 23  | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | | |||
-| 24  | [Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | |||
-| 25  | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | ДЗ6 | |||
-| 26  | [Машинное обучение. Разное](https://github.com/hse-ling-python/seminars/blob/master/ml/ml_final.md) | | |||
-| 27  | [Телеграм-боты - 1](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || |||
-| 28  | [Телеграм-боты - 2](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || |||
-| 29  |Консультация| | |||
-|30-31|Анализ данных|||||
+| 18-19 | Контрольная |||||
+| 20  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | |||
+| 21  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | |||
+| 22  | [Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | ||||
+| 23  | [Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | | |||
+| 24  | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | | |||
+| 25  | [Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | |||
+| 26  | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | ДЗ6 | |||
+| 27  | [Машинное обучение. Разное](https://github.com/hse-ling-python/seminars/blob/master/ml/ml_final.md) | | |||
+| 28  | [Телеграм-боты - 1](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || |||
+| 29  | [Телеграм-боты - 2](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || |||
+| 30  |Консультация| | |||
+| 31  |Анализ данных|||||
 
