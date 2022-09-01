@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td> <a href="https://t.me/joinchat/3ymOTSrrFzphYzA6"> инвайт-линк в телеграм-чат </a> </td>
+    <td> <a href="https://t.me/+_rVHp4PdLKQxYWVi"> инвайт-линк в телеграм-чат </a> </td>
     <td> <a href=""> таблица с оценками </a> </td>
   </tr>
 </table>
