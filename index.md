@@ -11,8 +11,8 @@
 
 | N  | Семинар     | ДЗ | 211 | 212 | 213 |
 | -- | ----------- | -- | --- | --- | --- |
-| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2022.ipynb) | | 06.09 | 10.09 | |
-| 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) | |  |  |  |  
+| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2022.ipynb) | | 06.09 | 10.09 | 06.09 |
+| 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) || 13.09 |  | 13.09 |  
 || [JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | |  |  |  |  
 | 3  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | ДЗ1 |  |  |  | 
 | 4  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | |||
