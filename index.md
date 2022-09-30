@@ -25,8 +25,8 @@
 | 12  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | ДЗ4 | ||22.11|
 | 13  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| | ||25.11|
 | 14  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | | ||29.11|
-| 15  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | | ||02.12|
-| 16  | [Docker](https://github.com/hse-ling-python/seminars/tree/master/docker) | ДЗ5 | ||06.12|
+| 15  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) |ДЗ5| ||02.12|
+| 16  | [Docker](https://github.com/hse-ling-python/seminars/tree/master/docker) | | ||06.12|
 | 17  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | | ||09.12|
 | 18 | Контрольная ||||13.12|
 | 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | ||20.12|
