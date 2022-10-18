@@ -18,7 +18,7 @@
 | 5 | [Pandas](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas.ipynb) | |  |  | 04.10  | 
 | 6  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_21.ipynb) | |  |  | 11.10 | 
 | 7  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_21_22.ipynb) |  |  |  | 14.10 | 
-| 8  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) |ДЗ2 |  |  | 18.10 |
+| 8  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) |[ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw2.md) |  |  | 18.10 |
 | 9  | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | | || 01.11|
 | 10  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | ДЗ3 | ||08.11|
 | 11 | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | | ||15.11|
