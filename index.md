@@ -20,7 +20,7 @@
 | 7  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_21_22.ipynb) |  |  |  | 14.10 | 
 | 8  | [TF-IDF](https://nbviewer.jupyter.org/github/hse-ling-python/seminars/blob/master/text_to_vector/TF-IDF.ipynb) |[ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw2.md) |  |  | 18.10 |
 | 9  | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | | || 01.11|
-| 10  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | ДЗ3 | ||08.11|
+| 10  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3.md) | ||08.11|
 | 11 | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | | ||15.11|
 | 12  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | ДЗ4 | ||22.11|
 | 13  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| | ||25.11|
