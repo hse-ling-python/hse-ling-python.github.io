@@ -22,7 +22,7 @@
 | 9  | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | |15.11|| 01.11|
 | 10  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3.md) |22.11||08.11|
 | 11 | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | |25.11||15.11|
-| 12  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | ДЗ4 |29.11||22.11|
+| 12  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4.md) |29.11||22.11|
 | 13  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| |2.12||25.11|
 | 14  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | |6.12||29.11|
 | 15  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) |ДЗ5|9.12||02.12|
