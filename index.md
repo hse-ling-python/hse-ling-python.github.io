@@ -27,9 +27,9 @@
 | 14  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | |6.12||29.11|
 | 15  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) |[ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw5.md)|9.12||02.12|
 | 16  | [Docker](https://github.com/hse-ling-python/seminars/tree/master/docker) | |13.12||06.12|
-| 17  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | |16.12||09.12|
+| 17  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | |16.12||13.12|
 | 18 | Контрольная ||20.12|17.12|20.12|
-| 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | ||13.12|
+| 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | ||09.12|
 | 20  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | |||
 | 21  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | |||
 | 22  | [Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | ||||
