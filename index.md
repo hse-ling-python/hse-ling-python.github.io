@@ -30,16 +30,17 @@
 | 17  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | |16.12||13.12|
 | 18 | [Контрольная](https://github.com/hse-ling-python/seminars/blob/master/KontrolnayaInstruction.md) ||20.12|17.12|20.12|
 | 19  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | ||09.12|
-| 20  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | | |||
-| 21  | [VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | | |||
-| 22  | [Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | ||||
-| 23  | [Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | | |||
-| 24  | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | | |||
-| 25  | [Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | |||
-| 26  | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | ДЗ6 | |||
-| 27  | [Машинное обучение. Разное](https://github.com/hse-ling-python/seminars/blob/master/ml/ml_final.md) | | |||
-| 28  | [Телеграм-боты - 1](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || |||
-| 29  | [Телеграм-боты - 2](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || |||
-| 30  |Консультация| | |||
-| 31  |Анализ данных|||||
+| 20  | [Лекция: Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | |16.01 |16.01|16.01|
+| 21  | [Семинар: Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | |17.01 |17.01|17.01|
+| 22  |Лекция: Анализ данных||23.01|23.01|23.01|
+| 23  | [Семинар: Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | 24.01|24.01|24.01|
+| 24  | [Лекция: Машинное обучение. Разное](https://github.com/hse-ling-python/seminars/blob/master/ml/ml_final.md) | |30.01 |30.01|30.01|
+| 25  | [Семинар: Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | ДЗ6 |31.01 |31.01|31.01|
+| 26  | [Лекция: API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | |06.02 |06.02|06.02|
+| 27  | [Семинар: VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | |07.02 |07.02|07.02|
+| 28  | [Лекция: Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | |13.02|13.02|13.02|
+| 29  | [Семинар: Телеграм-боты - 1](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || 14.02|14.02|14.02|
+| 30  |Лекция: Анализ данных||20.02|20.02|20.02|
+| 31  | [Семинар: Телеграм-боты - 2](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) ||21.02 |21.02|21.02|
+
 
