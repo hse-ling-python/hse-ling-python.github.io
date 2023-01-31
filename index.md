@@ -35,7 +35,7 @@
 | 22  |Лекция: Анализ данных||23.01|23.01|23.01|
 | 23  | [Семинар: Классификация](https://github.com/hse-ling-python/seminars/blob/master/ml/classification.ipynb)| | 24.01|24.01|24.01|
 | 24  | [Лекция: Машинное обучение. Разное](https://github.com/hse-ling-python/seminars/blob/master/ml/ml_final.md) | |30.01 |30.01|30.01|
-| 25  | [Семинар: Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | ДЗ6 |31.01 |31.01|31.01|
+| 25  | [Семинар: Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/clustering.ipynb) | [ДЗ6](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw6/hw6.md) |31.01 |31.01|31.01|
 | 26  | [Лекция: API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | |06.02 |06.02|06.02|
 | 27  | [Семинар: VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | |07.02 |07.02|07.02|
 | 28  | [Лекция: Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | |13.02|13.02|13.02|
