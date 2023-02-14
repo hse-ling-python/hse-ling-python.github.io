@@ -39,7 +39,7 @@
 | 26  | [Лекция: API](https://github.com/hse-ling-python/seminars/blob/master/different_api/client-server-architecture.ipynb) | |06.02 |06.02|06.02|
 | 27  | [Семинар: VK API](https://github.com/hse-ling-python/seminars/blob/master/different_api/vk_api2021.ipynb) | |07.02 |07.02|07.02|
 | 28  | [Лекция: Графы](https://github.com/hse-ling-python/seminars/blob/master/graphs/graphs_2021.ipynb) | |13.02|13.02|13.02|
-| 29  | [Семинар: Телеграм-боты - 1](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) || 14.02|14.02|14.02|
+| 29  | [Семинар: Телеграм-боты - 1](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) |[Инструкция по финальному проекту (=экзамену)](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/final_project_guidelines.md)| 14.02|14.02|14.02|
 | 30  |Лекция: Анализ данных||20.02|20.02|20.02|
 | 31  | [Семинар: Телеграм-боты - 2](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) ||21.02 |21.02|21.02|
 
