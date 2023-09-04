@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td> <a href="https://t.me/+_rVHp4PdLKQxYWVi"> инвайт-линк в телеграм-чат </a> </td>
-    <td> <a href="https://docs.google.com/spreadsheets/d/1AoLaAPYpQgjsI9Hesw6Jv-tn8mQ-VvyASSqVU1bj7fk/edit?usp=sharing"> таблица с оценками </a> </td>
+    <td> <a href="https://t.me/+qSMpNlvxRVpmZTVi"> инвайт-линк в телеграм-чат </a> </td>
+    <td> <a href="https://docs.google.com/spreadsheets/d/17giJ1Qtz3wMvfrvyA5DsQ0KCfTRaPc15eZSN2b_QcfI/edit?usp=sharing"> таблица с оценками </a> </td>
   </tr>
 </table>
 
