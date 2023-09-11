@@ -29,7 +29,6 @@
 | 16  | [Docker](https://github.com/hse-ling-python/seminars/tree/master/docker) | |13.12||06.12|
 | 17 | [Консультация](https://github.com/hse-ling-python/seminars/blob/master/KontrolnayaInstruction.md) ||20.12|17.12|20.12|
 | 18-19 | [Контрольная](https://github.com/hse-ling-python/seminars/blob/master/KontrolnayaInstruction.md) ||20.12|17.12|20.12|
-
 | 20  | [Лекция: Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | |16.01 |16.01|16.01|
 | 21  | [Семинар: Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | |17.01 |17.01|17.01|
 | 22  |Лекция: Анализ данных||23.01|23.01|23.01|
