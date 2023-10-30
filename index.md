@@ -19,16 +19,18 @@
 | 5 | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 03.10 |05.10 |06.10|
 | 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_21_22.ipynb) |  | 10.10 | 12.10 | 13.10 | 
 | 7-8  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) | | |19.10/?| 20.10/?|
-| 9 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | ||| |
-| 10  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3.md) ||||
-| 11 | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | ||||
-| 12  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4.md) ||||
-| 13  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| ||||
-| 14  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | ||||
-| 15  | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) |[ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw5.md)||||
-| 16  | [Docker](https://github.com/hse-ling-python/seminars/tree/master/docker) | ||||
+| 9 | Консультация по темам 1 модуля |||||
+
+| 10 | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | ||||
+| 11  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | [ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4.md) ||||
+| 12 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | ||| |
+| 13  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3.md) ||||
+| 14 | Промежуточная консультация по темам 2 модуля и ДЗ |||||
+| 15  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| ||||
+| 16  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | ДЗ5 ||||
 | 17 | [Консультация](https://github.com/hse-ling-python/seminars/blob/master/KontrolnayaInstruction.md) |||||
 | 18-19 | [Контрольная](https://github.com/hse-ling-python/seminars/blob/master/KontrolnayaInstruction.md) |||||
+
 | 20  | [Лекция: Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | ||||
 | 21  | [Семинар: Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | ||||
 | 22  |Лекция: Анализ данных|||||
