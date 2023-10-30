@@ -29,7 +29,6 @@
 | 16  | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2-3.md) | ДЗ5 ||||
 | 17 | [Консультация](https://github.com/hse-ling-python/seminars/blob/master/KontrolnayaInstruction.md) |||||
 | 18-19 | [Контрольная](https://github.com/hse-ling-python/seminars/blob/master/KontrolnayaInstruction.md) |||||
-
 | 20  | [Лекция: Введение в машинное обучение](https://github.com/hse-ling-python/seminars/blob/master/ml/intro.ipynb) | ||||
 | 21  | [Семинар: Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/Linear_Regression.ipynb) | ||||
 | 22  |Лекция: Анализ данных|||||
