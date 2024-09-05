@@ -17,7 +17,7 @@
 | 4  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1.md) | 26.09 | 28.09 | 29.09 |
 | 5 | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 03.10 |05.10 |06.10|
 | 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_21_22.ipynb) |  | 10.10 | 12.10 | 13.10 | 
-| 7-8  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) || 17.10/24.10 |19.10/?| 20.10/?|
+| 7-8  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) || 17.10/? |19.10/?| 20.10/?|
 | 9 | Консультация по темам 1 модуля |||||
 | 10 | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | |07.11|||
 | 11  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | [ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw_crawlers.md) ||14.11||
