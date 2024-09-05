@@ -1,9 +1,9 @@
-# Python для лингвистов 2 курс 2022-2023
+# Python для лингвистов 2 курс 2024-2025
 
 <table>
   <tr>
-    <td> <a href="https://t.me/+qSMpNlvxRVpmZTVi"> инвайт-линк в телеграм-чат </a> </td>
-    <td> <a href="https://docs.google.com/spreadsheets/d/17giJ1Qtz3wMvfrvyA5DsQ0KCfTRaPc15eZSN2b_QcfI/edit?usp=sharing"> таблица с оценками </a> </td>
+    <td> <a href="#"> инвайт-линк в телеграм-чат </a> </td>
+    <td> <a href="https://docs.google.com/spreadsheets/d/1zFbYQvjW-yAdxymjNKeoSTCn3fQR9CN5ZsPfBs0auac/edit?usp=sharing"> таблица с оценками </a> </td>
   </tr>
 </table>
 
@@ -11,7 +11,7 @@
 
 | N  | Семинар     | ДЗ | 221 | 222 | 223 |
 | -- | ----------- | -- | --- | --- | --- |
-| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2023.ipynb) | | 05.09 | 08.09 | 08.09 |
+| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2023.ipynb) | | 06.09 | 06.09 | 06.09 |
 | 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) || 12.09 | 15.09 | 15.09 |  
 || [JSON, numpy, pandas](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) || 12.09 | 15.09 | 15.09 |  
 | 3  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_for_students.ipynb) || 19.09 | 21.09 | 22.09 | 
