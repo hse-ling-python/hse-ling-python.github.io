@@ -11,9 +11,9 @@
 
 | N  | Семинар     | ДЗ | 221 | 222 | 223 |
 | -- | ----------- | -- | --- | --- | --- |
-| 1  | [Вводный семинар](https://github.com/hse-ling-python/seminars/blob/master/intro/course_intro_2023.ipynb) | | 06.09 | 06.09 | 06.09 |
+| 1  | [Вводный семинар, JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/intro_json_2024.ipynb) | | 06.09 | 06.09 | 06.09 |
 | 2  | [Типы данных](https://github.com/hse-ling-python/seminars/blob/master/data_structures/data_structures_1(1).ipynb) || 12.09 | 15.09 | 15.09 |  
-|| [JSON, numpy, pandas](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) || 12.09 | 15.09 | 15.09 |  
+|| [, numpy, pandas](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) || 12.09 | 15.09 | 15.09 |  
 | 3  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_for_students.ipynb) || 19.09 | 21.09 | 22.09 | 
 | 4  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1.md) | 26.09 | 28.09 | 29.09 |
 | 5 | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 03.10 |05.10 |06.10|
