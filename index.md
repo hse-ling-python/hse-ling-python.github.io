@@ -9,7 +9,7 @@
 
 ## План курса
 
-| N  | Семинар     | ДЗ | 221 | 222 | 223 |
+| N  | Семинар     | ДЗ | 231 | 232 | 233 |
 | -- | ----------- | -- | --- | --- | --- |
 | 1  | [Вводный семинар, JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/intro_json_2024.ipynb) | | 06.09 | 06.09 | 06.09 |
 | 2  | [Numpy, pandas](https://github.com/hse-ling-python/seminars/blob/master/json_data/json_1.ipynb) | | 13.09 | 13.09 | 13.09 |  
