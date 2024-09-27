@@ -13,7 +13,9 @@
 | -- | ----------- | -- | --- | --- | --- |
 | 1  | [Вводный семинар, JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/intro_json_2024.ipynb) | | 06.09 | 06.09 | 06.09 |
 | 2  | [Pandas, Numpy](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_numpy_2024.ipynb) | | 13.09 | 13.09 | 13.09 |  
-| 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb) || 20.09 | 20.09 | 20.09 | 
+| 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb) | | 20.09 | 20.09 | 20.09 | 
+| 4  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_2024.ipynb) | | 27.09 | 27.09 | 27.09 |  
+<!---
 | 4  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1.md) | 26.09 | 28.09 | 29.09 |
 | 5 | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 03.10 |05.10 |06.10|
 | 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_21_22.ipynb) |  | 10.10 | 12.10 | 13.10 | 
@@ -40,5 +42,6 @@
 | 29  | [Семинар: Телеграм-боты - 1](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) |[Инструкция по финальному проекту (=экзамену)](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/final_project_guidelines.md)||||
 | 30  |Лекция: Анализ данных|||||
 | 31  | [Семинар: Телеграм-боты - 2](https://github.com/hse-ling-python/seminars/tree/master/chatbots/telegram) |||||
+-->
 
 
