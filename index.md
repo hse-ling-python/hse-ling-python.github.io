@@ -15,7 +15,8 @@
 | 2  | [Pandas, Numpy](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_numpy_2024.ipynb)       |    | 13.09 | 13.09 | 13.09 |  
 | 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb) |    | 20.09 | 20.09 | 20.09 | 
 | 4  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_2024.ipynb)       |    | 27.09 | 27.09 | 27.09 |
-| 5  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_2024.ipynb)               |    | 04.10 | 04.10 | 04.10 |
+| 5  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_2024.ipynb)               | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md) | 04.10 | 04.10 | 04.10 |
+| 6  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax_2024.ipynb)                        |    | 10.10 | 10.10 | 10.10|
 
 <!---
 | 4  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1.md) | 26.09 | 28.09 | 29.09 |
