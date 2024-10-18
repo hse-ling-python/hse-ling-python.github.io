@@ -9,19 +9,16 @@
 
 ## План курса
 
-| N  | Семинар                                                                                                              | ДЗ | 231   | 232   | 233   |
-| -- | -------------------------------------------------------------------------------------------------------------------- | -- | ----- | ----- | ----- |
-| 1  | [Вводный семинар, JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/intro_json_2024.ipynb)     |    | 06.09 | 06.09 | 06.09 |
-| 2  | [Pandas, Numpy](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_numpy_2024.ipynb)       |    | 13.09 | 13.09 | 13.09 |  
-| 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb) |    | 20.09 | 20.09 | 20.09 | 
-| 4  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_2024.ipynb)       |    | 27.09 | 27.09 | 27.09 |
-| 5  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_2024.ipynb)               | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md) | 04.10 | 04.10 | 04.10 |
-| 6  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax_2024.ipynb)                        |    | 10.10 | 10.10 | 10.10|
-
+| N  | Семинар                                                                                                                 | ДЗ | 231   | 232   | 233   |
+| -- | ----------------------------------------------------------------------------------------------------------------------- | -- | ----- | ----- | ----- |
+| 1  | [Вводный семинар, JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/intro_json_2024.ipynb)        |    | 06.09 | 06.09 | 06.09 |
+| 2  | [Pandas, Numpy](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_numpy_2024.ipynb)          |    | 13.09 | 13.09 | 13.09 |  
+| 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb)    |    | 20.09 | 20.09 | 20.09 | 
+| 4  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_2024.ipynb)          |    | 27.09 | 27.09 | 27.09 |
+| 5  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_2024.ipynb)                  | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md) | 04.10 | 04.10 | 04.10 |
+| 6  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax_2024.ipynb)                           |    | 11.10 | 11.10 | 11.10 |
+| 7  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_24_25.ipynb) |    | 18.10 | 18.10 | 18.10 | 
 <!---
-| 4  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_1.ipynb) | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1.md) | 26.09 | 28.09 | 29.09 |
-| 5 | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax.md) | | 03.10 |05.10 |06.10|
-| 6  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_21_22.ipynb) |  | 10.10 | 12.10 | 13.10 | 
 | 7-8  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) || 17.10/? |19.10/?| 20.10/?|
 | 9 | Консультация по темам 1 модуля |||||
 | 10 | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2021.ipynb) | |07.11|||
