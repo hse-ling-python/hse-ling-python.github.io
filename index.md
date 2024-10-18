@@ -18,6 +18,7 @@
 | 5  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_2024.ipynb)                  | [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md) | 04.10 | 04.10 | 04.10 |
 | 6  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax_2024.ipynb)                           |    | 11.10 | 11.10 | 11.10 |
 | 7  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_24_25.ipynb) |    | 18.10 | 18.10 | 18.10 | 
+
 <!---
 | 7-8  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) || 17.10/? |19.10/?| 20.10/?|
 | 9 | Консультация по темам 1 модуля |||||
