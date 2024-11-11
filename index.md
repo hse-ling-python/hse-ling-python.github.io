@@ -20,9 +20,10 @@
 | 7  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_24_25.ipynb) |    | 18.10 | 18.10 | 18.10 | 
 | 8  | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2024.ipynb)               |    | 08.11 | 01.11 | 08.11 |
 | 9  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb)                           |    |       | 08.11 |       |
+| 10 | [Разные NLP-инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/instr_nlp_2024.ipynb)  |    |       | 11.11 |       |
 
 <!---
-| 7-8  | [Разные инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/compling.md) || 17.10/? |19.10/?| 20.10/?|
+
 | 9 | Консультация по темам 1 модуля |||||
 | 11  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | [ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw_crawlers.md) ||14.11||
 | 12 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | |21.11|| |
