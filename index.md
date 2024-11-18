@@ -21,13 +21,9 @@
 | 8  | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2024.ipynb)               |    | 08.11 | 01.11 | 08.11 |
 | 9  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_2024.ipynb)                        |    | 12.11 | 08.11 | 12.11 |
 | 10 | [Разные NLP-инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/instr_nlp_2024.ipynb)  |    | 16.11 | 11.11 | 16.11 |
-| 11 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb)             |    | 15.11 | 15.11 | 15.11 |
-
+| 11 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb)             | [ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw2_2024.md) | 15.11 | 15.11 | 15.11 |
+| 12 | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2_2024.ipynb)             |    | 18.11 | 18.11 | 18.11 |
 <!---
-
-| 9 | Консультация по темам 1 модуля |||||
-| 11  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_1.ipynb) | [ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw_crawlers.md) ||14.11||
-| 12 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_1.ipynb) | |21.11|| |
 | 13  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3.md) ||||
 | 14 | Промежуточная консультация по темам 2 модуля и ДЗ |||||
 | 15  | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1.ipynb)| ||||
