@@ -23,7 +23,7 @@
 | 10 | [Разные NLP-инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/instr_nlp_2024.ipynb)  |    | 16.11 | 11.11 | 16.11 |
 | 11 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb)             | [ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw2_2024.md) | 15.11 | 15.11 | 15.11 |
 | 12 | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2_2024.ipynb)             |    | 18.11 | 18.11 | 18.11 |
-| 13 | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1_2024.ipynb)               |    |   -   | 25.11 |   -   |
+| 13 | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1_2024.ipynb)               |    | 26.11 | 25.11 | 26.11 |
 
 <!---
 | 13  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3.md) ||||
