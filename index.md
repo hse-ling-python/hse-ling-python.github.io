@@ -25,7 +25,7 @@
 | 12 | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2_2024.ipynb)             |    | 18.11 | 18.11 | 18.11 |
 | 13 | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2024.ipynb)                |    | 26.11 | 25.11 | 26.11 |
 | 14 | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/html_css_web_forms_2024.ipynb)   |    | 29.11 | 29.11 | 29.11 |
-| 15 | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_db_queries_2024_data/flask_db_queries_2024.ipynb)   |    | 03.12 | 02.12 | 03.12 |
+| 15 | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_db_queries_2024_data/flask_db_queries_2024.ipynb)   | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3_2024.md) | 03.12 | 02.12 | 03.12 |
 | 16 | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/API_2024.ipynb)                             |    | 06.12 | 06.12 | 06.12 |
 
 <!---
