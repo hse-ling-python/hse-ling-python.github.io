@@ -27,6 +27,8 @@
 | 14 | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/html_css_web_forms_2024.ipynb)   |    | 29.11 | 29.11 | 29.11 |
 | 15 | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_db_queries_2024_data/flask_db_queries_2024.ipynb)   | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3_2024.md) | 03.12 | 02.12 | 03.12 |
 | 16 | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/API_2024.ipynb)                             |    | 06.12 | 06.12 | 06.12 |
+| 17 | [Память](https://github.com/hse-ling-python/seminars/blob/master/memory/memory_2024.ipynb)<br>[Регулярки](https://github.com/hse-ling-python/seminars/blob/master/regexp/regular_expressions_2024.ipynb)                            |    | 09.12 | 09.12 | 09.12 |
+| 18 | [ООП](https://github.com/hse-ling-python/seminars/blob/master/classes/oop_2024.ipynb)                                   |    | 10.12 | 09.12 | 10.12 |
 
 <!---
 | 13  | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2020_2.ipynb) | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3.md) ||||
