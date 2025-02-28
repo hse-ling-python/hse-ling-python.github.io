@@ -34,8 +34,8 @@
 | 21 | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_linreg_2025.ipynb)                   |    | 28.01 | 31.01 | 28.01 |
 | 22 | [Логистическая регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_logreg_2025.ipynb)              |    | 04.02 | 07.02 | 04.02 |
 | 23 | [Деревья](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_trees_2025.ipynb)                               | [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4_2024.md)   | 11.02 | 14.02 | 11.02 |
-| 24 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice_2025.ipynb)                           |    | 18.02 | 21.02 | 18.02 |
-| 25 | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_clust_2025.ipynb)                         |    |  | 28.02 | 25.02 |
+| 24 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice_2025.ipynb)                           |    | 25.02 | 21.02 | 18.02 |
+| 25 | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_clust_2025.ipynb)                         |    | 28.02 | 28.02 | 25.02 |
 
 
 <!---
