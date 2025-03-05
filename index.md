@@ -36,7 +36,7 @@
 | 23 | [Деревья](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_trees_2025.ipynb)                               | [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4_2024.md)   | 11.02 | 14.02 | 11.02 |
 | 24 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice_2025.ipynb)                           |    | 25.02 | 21.02 | 18.02 |
 | 25 | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_clust_2025.ipynb)                         |    | 28.02 | 28.02 | 25.02 |
-| 26 | [Языковые модели](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_LLM_2025.ipynb)                         |    | 04.03 | 04.03 | 04.03 |
+| 26 | [Языковые модели](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_LLM_2025.ipynb)                         | [ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw5_2025.md) | 04.03 | 04.03 | 04.03 |
 
 
 
