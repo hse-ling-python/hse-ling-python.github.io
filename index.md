@@ -37,10 +37,10 @@
 | 24 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice_2025.ipynb)                           |    | 25.02 | 21.02 | 18.02 |
 | 25 | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_clust_2025.ipynb)                         |    | 28.02 | 28.02 | 25.02 |
 | 26 | [Языковые модели](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_LLM_2025.ipynb)                         | [ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw5_2025.md) | 04.03 | 04.03 | 04.03 |
-| 27 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice2_2025.ipynb)                         |    | 11.03 | 13.03 | 11.03 |
-| 28 | Рекомендательные системы                                                                                                 |    | 14.03 | 14.03 | 14.03 |
-| 29 | Консультация (по проектам / к НЭ)                                                                                        |    | 18.03 | 20.03 | 18.03 |
-| 30 | Консультация (по проектам / к НЭ)                                                                                        |    | 21.03 | 21.03 | 21.03 |
+| 27 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice2_2025.ipynb)                          |    | 11.03 | 13.03 | 11.03 |
+| 28 | [Рекомендательные системы](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_RecSys_2025.ipynb)             |    | 14.03 | 14.03 | 14.03 |
+| 29 | Консультация (по проектам / к НЭ)                                                                                       |    | 18.03 | 20.03 | 18.03 |
+| 30 | Консультация (по проектам / к НЭ)                                                                                       |    | 21.03 | 21.03 | 21.03 |
 
 
 <!---
