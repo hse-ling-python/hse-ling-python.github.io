@@ -13,7 +13,7 @@
 | -- | ----------------------------------------------------------------------------------------------------------------------- | -- | ----- | ----- | ----- |
 | 1  | [Вводный семинар, JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/intro_json_2025.ipynb)        |    | 05.09 | 05.09 | 05.09 |
 | 2  | [Pandas, Numpy](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_numpy_2024.ipynb)          |    | 12.09 | 12.09 | 12.09 |  
-| 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb)    |    | 19.09 | 19.09 | 19.09 | 
+| 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb)    |[ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2025.ipynb)  | 19.09 | 19.09 | 19.09 | 
 | 4  | [Память](https://github.com/hse-ling-python/seminars/blob/master/memory/memory_2024.ipynb)<br>[Регулярки](https://github.com/hse-ling-python/seminars/blob/master/regexp/regular_expressions_2024.ipynb)                                                             |    | 26.12 | 26.12 | 25.12 |
 | 5  | [Визуализация](https://github.com/hse-ling-python/seminars/blob/master/visualization/visualization_2024.ipynb)          |    | 03.10 | 03.10 | 03.10 |
 | 6  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_2024.ipynb)                  |    | 10.10 | 10.10 | 10.10 |
