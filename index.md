@@ -11,6 +11,7 @@
 
 | N  | Семинар                                                                                                                 | ДЗ | 241   | 242   | 243   |
 | -- | ----------------------------------------------------------------------------------------------------------------------- | -- | ----- | ----- | ----- |
+|   | 1 модуль |   |  |  | | 
 | 1  | [Вводный семинар, JSON](https://github.com/hse-ling-python/seminars/blob/master/json_data/intro_json_2025.ipynb)        |    | 05.09 | 05.09 | 05.09 |
 | 2  | [Pandas, Numpy](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_numpy_2024.ipynb)          |    | 12.09 | 12.09 | 12.09 |  
 | 3  | [Pandas: практика](https://github.com/hse-ling-python/seminars/blob/master/visualization/pandas_training_2024.ipynb)    |[ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2025.ipynb)  | 19.09 | 19.09 | 19.09 | 
@@ -19,6 +20,8 @@
 | 6  | [Морфология](https://github.com/hse-ling-python/seminars/blob/master/morphology/morphology_2024.ipynb)                  |[ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw2_2025.md)  | 10.10 | 10.10 | 10.10 |
 | 7  | [Синтаксис](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/syntax_2024.ipynb)                           |    | 17.10 | 17.10 | 17.10 |
 | 8  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_25_26.ipynb)<br>[Разные NLP-инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/instr_nlp_2024.ipynb) |[ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3_2025.md)    | 24.10 | 24.10 | 24.10 | 
+|   | 2 модуль |   |  |  | | 
+| 9  | [HTML, краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/requests_crawlers_2025.ipynb) |   | 06.11 | ? | 06.11 | 
 
 <!---
 [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md)
