@@ -22,7 +22,7 @@
 | 8  | [Семантические модели](https://github.com/hse-ling-python/seminars/blob/master/vector_models/vector_models_25_26.ipynb)<br>[Разные NLP-инструменты](https://github.com/hse-ling-python/seminars/blob/master/random_compling/instr_nlp_2024.ipynb) |[ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3_2025.md)    | 24.10 | 24.10 | 24.10 | 
 |   | 2 модуль |   |  |  | | 
 | 9  | [HTML, краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/requests_crawlers_2025.ipynb) |   | 06.11 | 10.11 | 06.11 | 
-| 10  | [Ьазы данных, SQL]() |   | 20.11 | 21.11 | 20.11 | 
+| 10  | [Базы данных, SQL](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb) |   | 20.11 | 21.11 | 20.11 | 
 
 <!---
 [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md)
