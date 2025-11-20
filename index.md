@@ -23,7 +23,7 @@
 |   | 2 модуль |   |  |  | | 
 | 9  | [HTML, краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/requests_crawlers_2025.ipynb) |   | 06.11 | 10.11 | 06.11 | 
 | 10  | [Базы данных, SQL](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb) |   | 20.11 | 21.11 | 20.11 | 
-| 11  | [Базы данных, SQL](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb) |  [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4_2025.md) | 27.11 | 28.11 | 27.11 | 
+| 11  | [Базы данных, SQL](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb) |  [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4_2025.md) | 27.11 | 28.11 | 27.11 | 
 
 
 <!---
