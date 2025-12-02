@@ -25,6 +25,8 @@
 | 10  | [Базы данных, SQL](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb) |   | 20.11 | 21.11 | 20.11 | 
 | 11  | [Базы данных 2 (Python)](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2_2024.ipynb) |  [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4_2025.md) | 27.11 | 28.11 | 27.11 | 
 | 12  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/API_2024.ipynb) |     | 27.11 | 28.11 | 27.11 | 
+| 13  | [Flask 1: основы](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1_2025.ipynb) |     |  |  |  | 
+| 14  | [Flask 2: формы и БД](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask2_2025.ipynb) |  [ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/hw5_flask.ipynb)   |  |  | | 
 
 
 
