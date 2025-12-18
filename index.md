@@ -28,7 +28,7 @@
 | 13  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/API_2024.ipynb) |     | 27.11 | 28.11 | 27.11 | 
 | 14  | [Flask 1: основы](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1_2025.ipynb) |     |  |  |  | 
 | 15  | [Flask 2: формы и БД](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask2_2025.ipynb) |  [ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/hw5_flask.ipynb)   |  |  | | 
-| 16  | [Flask: практика](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_practice_2025.ipynb) |    |  |  | |
+| 16  | [Flask: практика](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_practice_2025.ipynb) <br> [SQLAlchemy-шпаргалка](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/sqlalchemy_cheatsheet.md)|    |  |  | |
 | 17  | [ООП](https://github.com/hse-ling-python/seminars/blob/master/classes/oop_2025.ipynb) |    |  |  | | 
 | 18  | [Консультация к КР](https://github.com/hse-ling-python/seminars/blob/master/random_compling/test_demo_2025.ipynb) |    |  |  | |
 
