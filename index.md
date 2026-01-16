@@ -31,6 +31,8 @@
 | 16  | [Flask: практика](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_practice_2025.ipynb) <br> [SQLAlchemy-шпаргалка](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/sqlalchemy_cheatsheet.md)|    |  |  | |
 | 17  | [ООП](https://github.com/hse-ling-python/seminars/blob/master/classes/oop_2025.ipynb) |    |  |  | | 
 | 18  | [Консультация к КР](https://github.com/hse-ling-python/seminars/blob/master/random_compling/test_demo_2025.ipynb) |    |  |  | |
+|   | 3 модуль |   |  |  | | 
+| 19  | [Введение в ML](https://docs.google.com/presentation/d/1X2Nn8Qzne7ZHfh49Q4IPXoUOuwxgymS-yUDYjCVv9n8/edit?usp=sharing) |    |  |  | |
 
 
 <!---
