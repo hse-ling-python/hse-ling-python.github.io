@@ -33,7 +33,7 @@
 | 18  | [Консультация к КР](https://github.com/hse-ling-python/seminars/blob/master/random_compling/test_demo_2025.ipynb) |    |  |  | |
 |   | 3 модуль |   |  |  | | 
 | 19  | [Введение в ML](https://docs.google.com/presentation/d/1X2Nn8Qzne7ZHfh49Q4IPXoUOuwxgymS-yUDYjCVv9n8/edit?usp=sharing) |    | 16.01 | 16.01 | 16.01 |
-| 20  | [Классификация (KNN)](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_kNN_2026.ipynb) <br> [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_linreg_2026.ipynb)|    | 23.01 | 23.01 | 23.01 |
+| 20  | [Классификация (KNN)](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_kNN_2026.ipynb) <br> [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_linreg_2026.ipynb)| [ДЗ6](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw6.md) | 23.01 | 23.01 | 23.01 |
 
 
 <!---
