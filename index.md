@@ -36,7 +36,7 @@
 | 20  | [Классификация (KNN)](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_kNN_2026.ipynb) | [ДЗ6](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw6.md) | 23.01 | 23.01 | 23.01 |
 | 21  | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_linreg_2026.ipynb) | | 23.01 | 23.01 | 23.01 |
 | 22  | [Логистическая регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_logreg_2026.ipynb) | | 30.01 | 30.01 | 30.01 |
-| 23  | [Деревья решений](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_trees_2026.ipynb) | | 30.01 | 30.01 | 30.01 |
+| 23  | [Деревья решений](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_trees_2026.ipynb) | [Проект](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/project_2026.md) | 30.01 | 30.01 | 30.01 |
 
 
 <!---
