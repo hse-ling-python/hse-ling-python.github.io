@@ -39,6 +39,8 @@
 | 23  | [Деревья решений](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_trees_2026.ipynb) | [Проект](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/project_2026.md) | 30.01 | 30.01 | 30.01 |
 | 24  | [Практика 1](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice_2026.ipynb) | | 20.02 | 20.02 | 20.02 |
 | 25  | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_clust_2026.ipynb) | | 20.02 | 20.02 | 20.02 |
+| 26  | [Снижение размерности](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_reduction_2026.ipynb) <br> [BERT](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_LLM_2026.ipynb) | | 27.02 | 27.02 | 27.02 |
+| 27  | [Практика 2](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice2_2026.ipynb) | | 27.02 | 27.02 | 27.02 |
 
 <!---
 [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md)
