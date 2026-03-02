@@ -26,11 +26,11 @@
 | 11  | [Базы данных, SQL](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb) |   | 20.11 | 21.11 | 20.11 | 
 | 12  | [Базы данных 2 (Python)](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2_2024.ipynb) |  [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4_2025.md) | 27.11 | 28.11 | 27.11 | 
 | 13  | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/API_2024.ipynb) |     | 27.11 | 28.11 | 27.11 | 
-| 14  | [Flask 1: основы](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1_2025.ipynb) |     |  |  |  | 
-| 15  | [Flask 2: формы и БД](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask2_2025.ipynb) |  [ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/hw5_flask.ipynb)   |  |  | | 
-| 16  | [Flask: практика](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_practice_2025.ipynb) <br> [SQLAlchemy-шпаргалка](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/sqlalchemy_cheatsheet.md)|    |  |  | |
-| 17  | [ООП](https://github.com/hse-ling-python/seminars/blob/master/classes/oop_2025.ipynb) |    |  |  | | 
-| 18  | [Консультация к КР](https://github.com/hse-ling-python/seminars/blob/master/random_compling/test_demo_2025.ipynb) |    |  |  | |
+| 14  | [Flask 1: основы](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask1_2025.ipynb) |     | 04.12 | 05.12 | 04.12 | 
+| 15  | [Flask 2: формы и БД](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask2_2025.ipynb) |  [ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/hw5_flask.ipynb)   | 04.12 | 05.12 | 04.12 | 
+| 16  | [Flask: практика](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_practice_2025.ipynb) <br> [SQLAlchemy-шпаргалка](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/sqlalchemy_cheatsheet.md)|    | 11.12 | 12.12 | 11.12 |
+| 17  | [ООП](https://github.com/hse-ling-python/seminars/blob/master/classes/oop_2025.ipynb) |    | 11.12 | 12.12 | 11.12 | 
+| 18  | [Консультация к КР](https://github.com/hse-ling-python/seminars/blob/master/random_compling/test_demo_2025.ipynb) |    | 18.12 | 19.12 | 18.12 |
 |   | 3 модуль |   |  |  | | 
 | 19  | [Введение в ML](https://docs.google.com/presentation/d/1X2Nn8Qzne7ZHfh49Q4IPXoUOuwxgymS-yUDYjCVv9n8/edit?usp=sharing) |    | 16.01 | 16.01 | 16.01 |
 | 20  | [Классификация (KNN)](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_kNN_2026.ipynb) | [ДЗ6](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw6.md) | 23.01 | 23.01 | 23.01 |
