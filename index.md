@@ -41,6 +41,8 @@
 | 25  | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_clust_2026.ipynb) | | 20.02 | 20.02 | 20.02 |
 | 26  | [Снижение размерности](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_reduction_2026.ipynb) <br> [BERT](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_LLM_2026.ipynb) | | 27.02 | 27.02 | 27.02 |
 | 27  | [Практика 2](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice2_2026.ipynb) | | 27.02 | 27.02 | 27.02 |
+| 28  | [Рекомендательные системы](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_RecSys_2026.ipynb) | | 06.03 | 06.03 | 06.03 |
+
 
 <!---
 [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md)
